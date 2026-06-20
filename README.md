@@ -3,7 +3,7 @@
 ### **Data Analyst | SQL Developer | Power BI Developer | Aspiring Data Engineer**
 
 📍 Chennai, Tamil Nadu, India  
-📧 [vetri11062002@gmail.com](mailto:vetri11062002@gmail.com) | [![LinkedIn](https://img.shields.shields.shields.shields.shields.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vetriselvi-k-06026b278) |[![GitHub](https://img.shields.shields.shields.shields.shields.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/VETRI11K)
+📧 [vetri11062002@gmail.com](mailto:vetri11062002@gmail.com) | 💼 [linkedin.com/in/vetriselvi-k](https://linkedin.com/in/vetriselvi-k) | 🐙 [github.com/VETRISELVI_K](https://github.com/VETRISELVI_K)
 
 > *“Turning complex enterprise-scale data into resilient architectures and actionable decisions.”*
 
